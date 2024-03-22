@@ -1,0 +1,7 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `c:/Users/IVO/CLionProjects/praktika'
+gcc -c maths.c -o maths.o
+gcc square.c maths.o -o square.exe
+gcc powerof.c maths.o -o powerof.exe
+make.exe: Leaving directory `c:/Users/IVO/CLionProjects/praktika'
+ 

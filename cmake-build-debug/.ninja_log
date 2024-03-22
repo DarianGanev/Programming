@@ -1,0 +1,21 @@
+# ninja log v5
+1	205	7239042070336805	CMakeFiles/praktika.dir/main.c.obj	6ef3303089f357b
+3	369	7239057781396508	build.ninja	bc163514f2ef1248
+39	396	7239043014031681	CMakeFiles/praktika.dir/maths.c.obj	520cf443ea8f1162
+20	399	7239043014081655	CMakeFiles/praktika.dir/powerof.c.obj	4781351f2c9a3962
+1	405	7239043014141647	CMakeFiles/praktika.dir/square.c.obj	6efafb1103db65ef
+7	323	7239058136717524	CMakeFiles/praktika.dir/square.c.obj	6efafb1103db65ef
+5	202	7239058566301805	CMakeFiles/praktika.dir/square.c.obj	6efafb1103db65ef
+66	1403	7239065265892438	CMakeFiles/praktika.dir/powerof.c.obj	4781351f2c9a3962
+89	1421	7239065265922444	CMakeFiles/praktika.dir/maths.c.obj	520cf443ea8f1162
+11	1582	7239065268426702	CMakeFiles/praktika.dir/square.c.obj	6efafb1103db65ef
+5	213	7239085067216372	CMakeFiles/praktika.dir/powerof.c.obj	4781351f2c9a3962
+7	562	7240197722733074	CMakeFiles/praktika.dir/maths.c.obj	520cf443ea8f1162
+67	574	7240197722733074	CMakeFiles/praktika.dir/powerof.c.obj	4781351f2c9a3962
+44	577	7240197722733074	CMakeFiles/praktika.dir/square.c.obj	6efafb1103db65ef
+53	343	7240199361030644	CMakeFiles/praktika.dir/maths.c.obj	520cf443ea8f1162
+69	349	7240199361090627	CMakeFiles/praktika.dir/powerof.c.obj	4781351f2c9a3962
+12	353	7240199361130588	CMakeFiles/praktika.dir/square.c.obj	6efafb1103db65ef
+21	368	7240207182588923	CMakeFiles/praktika.dir/maths.c.obj	520cf443ea8f1162
+4	396	7240207183648306	CMakeFiles/praktika.dir/square.c.obj	6efafb1103db65ef
+36	410	7240207183808228	CMakeFiles/praktika.dir/powerof.c.obj	4781351f2c9a3962
