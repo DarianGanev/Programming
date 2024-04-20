@@ -25,6 +25,6 @@ DynArrType popBack(DynamicArray* arr);
 
 void release(DynamicArray* arr);
 
-int findElementIndex(DynamicArray* arr, DynArrType value);
+int findIndex(DynamicArray* arr, DynArrType elem);
 
 #endif

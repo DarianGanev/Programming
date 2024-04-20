@@ -46,22 +46,8 @@ int main(void) {
   printDynamicArray(&dynarr);
 
   release(&dynarr);
-
-  DynArrType searchValue = 77.0f;
-  int index = findElementIndex(&dynarr, searchValue);
-  if (index != -1) {
-    printf("Index of %.2f: %d\n", searchValue, index);
-  } else {
-    printf("%.2f not found in the array\n", searchValue);
-  }
-
-  searchValue = 999.0f;
-  index = findElementIndex(&dynarr, searchValue);
-  if (index != -1) {
-    printf("Index of %.2f: %d\n", searchValue, index);
-  } else {
-    printf("%.2f not found in the array\n", searchValue);
-  }
+  float searchIndex = 105;
+  printf("Index: %d\n", findIndex(&dynarr, searchIndex));
 
   return 0;
 }

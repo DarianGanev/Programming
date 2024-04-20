@@ -99,9 +99,9 @@ void release(DynamicArray* arr) {
   arr->size = 0;
 }
 
-int findElementIndex(DynamicArray* arr, DynArrType value) {
+int findIndex(DynamicArray* arr, DynArrType elem) {
   for (int i = 0; i < arr->size; i++) {
-    if (arr->buffer[i] == value) {
+    if (arr->buffer[i] == elem) {
       return i;
     }
   }
