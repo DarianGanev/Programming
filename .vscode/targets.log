@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# Make data base, printed on Tue Jun 11 21:43:18 2024
+# Make data base, printed on Tue Jun 11 21:53:44 2024
 
 # Variables
 
@@ -105,8 +105,7 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # environment
 USERDOMAIN = DESKTOP-CP0ALR4
 # default
-MAK 
-E = $(MAKE_COMMAND)
+MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
 # default
@@ -176,8 +175,7 @@ SYSTEMDRIVE = C:
 # environment
 SESSIONNAME = Console
 # environment
-PROCESSOR_REVISION 
- = 3d04
+PROCESSOR_REVISION = 3d04
 # environment
 PYCHARM = C:\Program Files\JetBrains\PyCharm 2023.2.2\bin;
 # environment
@@ -207,21 +205,25 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-CP0ALR4
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1715889753): 30 files, no impossibilities.
 # C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1717249878): 153 files, no impossibilities.
 # . (key c:/Users/IVO/CLionProjects/praktika/Programming, mtime 1711483193): 9 files, no impossibilities.
-# C:\Users\IVO\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/IVO/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1717686140): 5 files, no impossibilities.
+# C:\Users\IVO\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/IVO/AppData/Local/Programs/Microsof 
+t VS Code/bin, mtime 1717686140): 5 files, no impossibilities.
 # C:\ProgramData\chocolatey\bin (key C:/ProgramData/chocolatey/bin, mtime 1710360299): 6 files, no impossibilities.
 # C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1710360102): 12 files, no impossibilities.
 # C:\Users\IVO\AppData\Roaming\npm (key C:/Users/IVO/AppData/Roaming/npm, mtime 1712815440): 9 files, no impossibilities.
 # C:\msys64\ucrt64\bin (key C:/msys64/ucrt64/bin, mtime 1701715310): 206 files, no impossibilities.
-# C:\Program Files\nodejs (key C:/Program Files/nodejs, mtime 1710360102): 12 files, no impossibilities.
+# C: 
+\Program Files\nodejs (key C:/Program Files/nodejs, mtime 1710360102): 12 files, no impossibilities.
 # C:\Windows\System32\OpenSSH\: could not be stat'd.
 # C:\Windows (key C:/Windows, mtime 1717255440): 104 files, no impossibilities.
 # C:\Users\IVO\AppData\Local\GitHubDesktop\bin (key C:/Users/IVO/AppData/Local/GitHubDesktop/bin, mtime 1678371860): 4 files, no impossibilities.
-# C:\Users\IVO\AppData\Local\Microsoft\WindowsApps (key C:/Users/IVO/AppData/Local/Microsoft/WindowsApps, mtime 1717654935): 18 files, no impossibilities.
+# C:\Users\IVO\AppData\Local\Microsoft\WindowsApps (key C:/Users/IVO/AppData/Local/Microsoft/WindowsApps, mtime 1717654935): 18 file 
+s, no impossibilities.
 # C:\Program Files\JetBrains\PyCharm 2023.2.2\bin (key C:/Program Files/JetBrains/PyCharm 2023.2.2/bin, mtime 1696955858): 27 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1678373891): 9 files, no impossibilities.
 # C:\Windows\system32 (key C:/Windows/system32, mtime 1717684974): 2865 files, no impossibilities.
 # C:\Python312\ (key C:/Python312/, mtime 1710360297): 17 files, no impossibilities.
-# C:\Python312\Scripts\ (key C:/Python312/Scripts/, mtime 1710360297): 5 files, no impossibilities.
+# C:\Python312\Scripts\ (key C:/Python312/Scri 
+pts/, mtime 1710360297): 5 files, no impossibilities.
 # C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1701530043): 5 files, no impossibilities.
 
 # 3496 files, no impossibilities in 20 directories.
@@ -241,7 +243,8 @@ all:
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
-# Not a target:
+# Not a tar 
+get:
 .DEFAULT:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
@@ -261,7 +264,8 @@ makefile:
 .SUFFIXES:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
-#  File has not been updated.
+#  File 
+ has not been updated.
 
 # Not a target:
 GNUmakefile:
@@ -282,11 +286,12 @@ GNUmakefile:
 # No general (`VPATH' variable) search path.
 
 # # of strings in strcache: 0
-# # of strcache buffers: 0
+# # of strca 
+che buffers: 0
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Tue Jun 11 21:43:18 2024
+# Finished Make data base on Tue Jun 11 21:53:44 2024
 
  
 make.exe: *** No rule to make target `all'.  Stop.
