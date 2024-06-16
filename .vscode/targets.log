@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# Make data base, printed on Wed Jun 12 21:29:05 2024
+# Make data base, printed on Sun Jun 16 13:08:38 2024
 
 # Variables
 
@@ -33,8 +33,7 @@ HOMEDRIVE = C:
 # makefile
 CURDIR := c:/Users/IVO/CLionProjects/praktika/Programming
 # default
-SHELL  
-:= sh.exe
+SHELL := sh.exe
 # environment
 WINDIR = C:\Windows
 # environment
@@ -46,17 +45,17 @@ PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
 # makefile
 MAKEFILE_LIST := 
 # environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
 TMP = C:\Users\IVO\AppData\Local\Temp
 # environment
 PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_CWD = C:\Users\IVO\ 
-AppData\Local\Programs\Microsoft VS Code
+VSCODE_CWD = C:\Users\IVO\AppData\Local\Programs\Microsoft VS Code
 # environment
-PATH = C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\IVO\AppData\Local\Microsoft\WindowsApps;C:\Users\IVO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\IVO\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm 2023.2.2\bin;;C:\P 
-rogram Files (x86)\GnuWin32\bin;C:\msys64\ucrt64\bin;C:\Users\IVO\AppData\Roaming\npm;C:\Program Files\nodejs;
+PATH = C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\IVO\AppData\Local\Microsoft\WindowsApps;C:\Users\IVO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\IVO\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm 2023.2.2\bin;;C:\Program Files (x86)\GnuWin32\bin;C:\msys64\ucrt64\bin;C:\Users\IVO\AppData\Roaming\npm;C:\Program Files\nodejs;
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
@@ -73,13 +72,12 @@ ALLUSERSPROFILE = C:\ProgramData
 NUMBER_OF_PROCESSORS = 4
 # environment
 ELECTRON_RUN_AS_NODE = 1
-# defau 
-lt
+# default
 .FEATURES := target-specific order-only second-expansion else-if archives
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_12052_MZMRNTQRVZMILFYZ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_9528_QZIWNBGHJUEWSMLB
 # environment
 COMPUTERNAME = DESKTOP-CP0ALR4
 # environment
@@ -93,12 +91,11 @@ USERNAME = IVO
 # environment
 PUBLIC = C:\Users\Public
 # environment
-VSCODE_AMD_ENTRYPOINT  
-= vs/workbench/api/node/extensionHostProcess
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 VSCODE_CODE_CACHE_PATH = C:\Users\IVO\AppData\Roaming\Code\CachedData\89de5a8d4d6205e5b11647eb6a74844ca23d2573
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
@@ -111,8 +108,7 @@ USERDOMAIN = DESKTOP-CP0ALR4
 MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
-# defa 
-ult
+# default
 MAKE_VERSION := 3.81
 # makefile
 .DEFAULT_GOAL := 
@@ -133,8 +129,7 @@ PROCESSOR_ARCHITEW6432 = AMD64
 # automatic
 *F = $(notdir $*)
 # environment
-PROCESSOR_IDENTIFIER = Intel6 
-4 Family 6 Model 61 Stepping 4, GenuineIntel
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
@@ -155,15 +150,12 @@ PT8HOME = C:\Program Files\Cisco Packet Tracer 8.2.2
 SYSTEMROOT = C:\Windows
 # automatic
 +D = $(patsubst %/,%,$(dir $+))
-# enviro 
-nment
+# environment
 VSCODE_L10N_BUNDLE_LOCATION = 
 # automatic
 +F = $(notdir $+)
 # environment
 APPDATA = C:\Users\IVO\AppData\Roaming
-# environment
-__COMPAT_LAYER = DetectorsAppHealth
 # environment
 TEMP = C:\Users\IVO\AppData\Local\Temp
 # environment
@@ -183,8 +175,7 @@ SYSTEMDRIVE = C:
 # environment
 SESSIONNAME = Console
 # environment
-PROCESSOR_REVISION = 3d0 
-4
+PROCESSOR_REVISION = 3d04
 # environment
 PYCHARM = C:\Program Files\JetBrains\PyCharm 2023.2.2\bin;
 # environment
@@ -194,13 +185,15 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
 PROGF81DEF27053 = 1
 # environment
-VSCODE_PID = 12052
+VSCODE_PID = 9528
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-CP0ALR4
 # variable set hash-table stats:
-# Load=89/1024=9%, Rehash=0, Collisions=9/106=8%
+# Load=90/1024=9%, Rehash=0, Collisions=9/107=8%
 
 # Pattern-specific Variable Values
 
@@ -209,32 +202,27 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-CP0ALR4
 # Directories
 
 # : could not be stat'd.
-# C:\Windows\System32\Windo 
-wsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1715889753): 30 files, no impossibilities.
-# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1717249878): 153 files, no impossibilities.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1715889753): 30 files, no impossibilities.
+# C:\Windows\System32\Wbem (key C:/Windows/System32/Wbem, mtime 1718399744): 153 files, no impossibilities.
 # . (key c:/Users/IVO/CLionProjects/praktika/Programming, mtime 1711483193): 9 files, no impossibilities.
 # C:\Users\IVO\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/IVO/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1717686140): 5 files, no impossibilities.
-# C:\Pro 
-gramData\chocolatey\bin (key C:/ProgramData/chocolatey/bin, mtime 1710360299): 6 files, no impossibilities.
+# C:\ProgramData\chocolatey\bin (key C:/ProgramData/chocolatey/bin, mtime 1710360299): 6 files, no impossibilities.
 # C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1710360102): 12 files, no impossibilities.
 # C:\Users\IVO\AppData\Roaming\npm (key C:/Users/IVO/AppData/Roaming/npm, mtime 1712815440): 9 files, no impossibilities.
 # C:\msys64\ucrt64\bin (key C:/msys64/ucrt64/bin, mtime 1701715310): 206 files, no impossibilities.
-# C:\Program Files\nodejs (key C:/Program Files/nodejs, mtime 1710360102):  
-12 files, no impossibilities.
+# C:\Program Files\nodejs (key C:/Program Files/nodejs, mtime 1710360102): 12 files, no impossibilities.
 # C:\Windows\System32\OpenSSH\: could not be stat'd.
-# C:\Windows (key C:/Windows, mtime 1717255440): 104 files, no impossibilities.
+# C:\Windows (key C:/Windows, mtime 1718442132): 105 files, no impossibilities.
 # C:\Users\IVO\AppData\Local\GitHubDesktop\bin (key C:/Users/IVO/AppData/Local/GitHubDesktop/bin, mtime 1678371860): 4 files, no impossibilities.
-# C:\Users\IVO\AppData\Local\Microsoft\WindowsApps (key C:/Users/IVO/AppData/Local/Microsoft/WindowsApps, mtime 1717654935): 18 files, no impossibilities.
-# C:\Program Files\JetBrains\PyCharm 2023.2.2\bi 
-n (key C:/Program Files/JetBrains/PyCharm 2023.2.2/bin, mtime 1696955858): 27 files, no impossibilities.
+# C:\Users\IVO\AppData\Local\Microsoft\WindowsApps (key C:/Users/IVO/AppData/Local/Microsoft/WindowsApps, mtime 1718389089): 18 files, no impossibilities.
+# C:\Program Files\JetBrains\PyCharm 2023.2.2\bin (key C:/Program Files/JetBrains/PyCharm 2023.2.2/bin, mtime 1696955858): 27 files, no impossibilities.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1678373891): 9 files, no impossibilities.
-# C:\Windows\system32 (key C:/Windows/system32, mtime 1718212695): 2865 files, no impossibilities.
+# C:\Windows\system32 (key C:/Windows/system32, mtime 1718518729): 2865 files, no impossibilities.
 # C:\Python312\ (key C:/Python312/, mtime 1710360297): 17 files, no impossibilities.
 # C:\Python312\Scripts\ (key C:/Python312/Scripts/, mtime 1710360297): 5 files, no impossibilities.
-# C:\Program File 
-s (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1701530043): 5 files, no impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1701530043): 5 files, no impossibilities.
 
-# 3496 files, no impossibilities in 20 directories.
+# 3497 files, no impossibilities in 20 directories.
 
 # Implicit Rules
 
@@ -254,8 +242,7 @@ all:
 # Not a target:
 .DEFAULT:
 #  Implicit rule search has not been done.
-#  Modificati 
-on time never checked.
+#  Modification time never checked.
 #  File has not been updated.
 
 # Not a target:
@@ -276,8 +263,7 @@ makefile:
 
 # Not a target:
 GNUmakefile:
-#  A default, MAKE 
-FILES, or -include/sinclude makefile.
+#  A default, MAKEFILES, or -include/sinclude makefile.
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has been updated.
@@ -295,11 +281,10 @@ FILES, or -include/sinclude makefile.
 
 # # of strings in strcache: 0
 # # of strcache buffers: 0
-# strcache size: total = 0 / max = 0 / min = 4096 / avg  
-= 0
+# strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Wed Jun 12 21:29:05 2024
+# Finished Make data base on Sun Jun 16 13:08:38 2024
 
  
 make.exe: *** No rule to make target `all'.  Stop.
