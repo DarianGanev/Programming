@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/IVO/CLionProjects/praktika/Programming/C_and_Python/C_language/Binary_Files",
-      "program": "c:/Users/IVO/CLionProjects/praktika/Programming/C_and_Python/C_language/Binary_Files/build/Debug/outDebug",
+      "cwd": "c:/Users/IVO/CLionProjects/praktika/Programming/C_and_Python/C_language/Work_with_Files/Serialization_of_Data_in_Files",
+      "program": "c:/Users/IVO/CLionProjects/praktika/Programming/C_and_Python/C_language/Work_with_Files/Serialization_of_Data_in_Files/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
